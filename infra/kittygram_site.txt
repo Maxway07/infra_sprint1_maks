@@ -1,0 +1,5 @@
+IP: 51.250.45.119;
+name_taski: https://maxwaymaytaski.ddns.net/;
+name_kittygram: https://maxwaymaykitty.ddns.net/;
+login: max;
+password: 111;
